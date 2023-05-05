@@ -1,0 +1,4 @@
+ 
+The total no.of N in the text are : 7  ['N', 'N', 'N', 'N', 'N', 'N', 'N'] 
+The total no.of single-N in the text are : 5  ['N', 'N', 'N', 'N', 'N'] 
+The total no.of double-N in the text are : 1  ['NN']

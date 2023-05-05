@@ -1,0 +1,28 @@
+
+Multiplication program for 5
+5*1=5
+5*2=10
+5*3=15
+5*4=20
+5*5=25
+5*6=30
+5*7=35
+5*8=40
+5*9=45
+5*10=50
+Prime numbers between 10and30
+
+11
+13
+17
+19
+23
+29
+Addition of list [34, 45, 32, 53, 2]
+The output is 166
+Multiplication of N natural numbers [34, 45, 32, 53, 2]
+The output is 0
+Multiplication of N natural numbers 
+The output is 0
+Multiplication of N natural numbers 
+The output is 265252859812191058636308480000000
